@@ -4,7 +4,6 @@
 **StarTwi/StarTwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->If ya want to be friends with me just go get some PONIES
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Java project. Mainly its a game but you can find some gist of it [here](https://www.youtube.com/watch?v=6OZAiTYlPLg)
 - 🌱 I’m currently learning Java,Python,Kot- no wonder I should not say this
