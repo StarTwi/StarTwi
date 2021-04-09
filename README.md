@@ -14,3 +14,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Ponies are cuter than you and they are the best in the whole world.
 - Fun Fact 2: A secret, I am biased towards Starlight Glimmer. Can see her [here](https://www.google.com/search?q=starlight+glimmer&rlz=1C1CHBF_enIN881IN881&sxsrf=ALeKk02pT5qgZuljCOFYVeQ6yFMzIg-dNg:1614685602679&tbm=isch&source=iu&ictx=1&fir=Z2JXcvkbUD-YNM%252Cxim-W0jD77LeAM%252C_&vet=1&usg=AI4_-kSl4Hrlmz076nsWsOKm09YNELRl3Q&sa=X&ved=2ahUKEwjS1ZXOxJHvAhUGxTgGHRfSB2YQ9QF6BAgLEAE#imgrc=Z2JXcvkbUD-YNM) and maybe [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarTwi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarTwi)](https://github.com/anuraghazra/github-readme-stats)
